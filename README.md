@@ -241,3 +241,5 @@ Linux高性能服务器编程，游双著.
 [最新版Web服务器项目详解 - 09 日志系统（上）](https://mp.weixin.qq.com/s/IWAlPzVDkR2ZRI5iirEfCg)
 
 [最新版Web服务器项目详解 - 10 日志系统（下）](https://mp.weixin.qq.com/s/f-ujwFyCe1LZa3EB561ehA)
+
+[最新版Web服务器项目详解 - 11 数据库连接池](https://mp.weixin.qq.com/s/7ayetU5tYn3k6K59G5adSA)
